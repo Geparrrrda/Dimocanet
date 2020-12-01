@@ -1,0 +1,11 @@
+body {
+  font-size: 15pt;
+  color: #C1CBFF;
+  background-color: #0D0F1A;
+}
+#t {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: large;
+  letter-spacing: 10px;
+}
